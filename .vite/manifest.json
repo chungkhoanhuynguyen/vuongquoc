@@ -329,12 +329,12 @@
     "file": "assets/fr_FR-BzKVoPzz.js",
     "name": "fr_FR"
   },
-  "_gfx-DAgD1RIX.js": {
-    "file": "assets/gfx-DAgD1RIX.js",
+  "_gfx-Durganub.js": {
+    "file": "assets/gfx-Durganub.js",
     "name": "gfx",
     "imports": [
       "_client_origin-BBR2IQjs.js",
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
       "_battleground_field-DD7ph_v2.js",
       "_vendor-three-C-cfN6pt.js",
@@ -436,17 +436,17 @@
       "_data-DKFa-WZ5.js"
     ]
   },
-  "_loader-DnYejZpN.js": {
-    "file": "assets/loader-DnYejZpN.js",
+  "_loader-Ceqx-niN.js": {
+    "file": "assets/loader-Ceqx-niN.js",
     "name": "loader",
     "imports": [
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_vendor-three-C-cfN6pt.js",
       "_media-Cb5ULaE4.js"
     ]
   },
-  "_main-DBa1cLO-.js": {
-    "file": "assets/main-DBa1cLO-.js",
+  "_main-CqjcXySL.js": {
+    "file": "assets/main-CqjcXySL.js",
     "name": "main",
     "imports": [
       "_preload-helper-DK2bx7Fl.js",
@@ -454,33 +454,33 @@
       "_client_origin-BBR2IQjs.js",
       "_site_presence-CR1kbjiW.js",
       "_browser_env-Dp6lNS8U.js",
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
-      "_textures-DK7nQCwS.js",
+      "_textures-DJMOHWs7.js",
       "_letters-C4Asfay7.js",
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_battleground_field-DD7ph_v2.js",
       "_dist-Do0m8ifp.js",
-      "_weather_field_core-e4CuGZPT.js",
-      "_map_bg-BD-FTjyQ.js",
+      "_weather_field_core-CHUmoQGq.js",
+      "_map_bg-B2M7u5EE.js",
       "_desktop_wallet_handoff-Bn5ugQw9.js",
       "_i18n-BKfzyXXG.js",
       "_talent_icons-kdx2XAPv.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
-      "_visible_children_group-DvtGdBH_.js",
+      "_visible_children_group-BXVjNrZ1.js",
       "_talent_i18n-DeWazpPu.js",
       "_icons-CEnD5fNO.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
-      "_texture_prewarm-Nhjxd1EL.js",
-      "_shader_debug_flag-D-J5GLWf.js",
-      "_perf_doctor-Dpw5UC84.js"
+      "_texture_prewarm-Dwq0Qj0C.js",
+      "_shader_debug_flag-Chi-cnJd.js",
+      "_perf_doctor-CJn4DlhD.js"
     ],
     "dynamicImports": [
       "node_modules/@capacitor/app/dist/esm/web.js",
-      "_map_bg-BD-FTjyQ.js",
+      "_map_bg-B2M7u5EE.js",
       "src/game/perf_diagnostics_panel.ts",
       "src/sim/maps/eastbrook_and_mirefen_changes.generated.ts",
       "src/sim/maps/eastbrook_rebuild.generated.ts",
@@ -489,7 +489,7 @@
       "node_modules/@capacitor/browser/dist/esm/web.js",
       "src/net/wallet.ts",
       "src/guide/viewer/scene.ts",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "src/ui/reliquary_i18n.locales/es.ts",
       "src/ui/reliquary_i18n.locales/fr_FR.ts",
       "src/ui/reliquary_i18n.locales/it_IT.ts",
@@ -510,34 +510,34 @@
       "src/ui/reliquary_i18n.locales/zh_TW.ts"
     ]
   },
-  "_map_bg-BD-FTjyQ.js": {
-    "file": "assets/map_bg-BD-FTjyQ.js",
+  "_map_bg-B2M7u5EE.js": {
+    "file": "assets/map_bg-B2M7u5EE.js",
     "name": "map_bg",
     "imports": [
       "_rolldown-runtime-BG2f4sTM.js",
       "_preload-helper-DK2bx7Fl.js",
       "_browser_env-Dp6lNS8U.js",
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
-      "_textures-DK7nQCwS.js",
+      "_textures-DJMOHWs7.js",
       "_letters-C4Asfay7.js",
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_battleground_field-DD7ph_v2.js",
-      "_weather_field_core-e4CuGZPT.js",
+      "_weather_field_core-CHUmoQGq.js",
       "_i18n-BKfzyXXG.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
       "_terrain_texture_sets-BSERhEo8.js",
-      "_visible_children_group-DvtGdBH_.js",
+      "_visible_children_group-BXVjNrZ1.js",
       "_woc_armor_core-gMJzBp__.js",
       "_talent_i18n-DeWazpPu.js",
       "_icons-CEnD5fNO.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
-      "_texture_prewarm-Nhjxd1EL.js",
+      "_texture_prewarm-Dwq0Qj0C.js",
       "_ground_textures-D_Q2S7o4.js",
-      "_shader_debug_flag-D-J5GLWf.js"
+      "_shader_debug_flag-Chi-cnJd.js"
     ],
     "dynamicImports": [
       "_battleground_field-DD7ph_v2.js",
@@ -562,13 +562,13 @@
       "src/render/rift_death_zone.ts"
     ]
   },
-  "_material_clone_hooks-CRXQ9ar5.js": {
-    "file": "assets/material_clone_hooks-CRXQ9ar5.js",
+  "_material_clone_hooks-BpMdP6Ph.js": {
+    "file": "assets/material_clone_hooks-BpMdP6Ph.js",
     "name": "material_clone_hooks",
     "imports": [
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_vendor-three-C-cfN6pt.js",
-      "_loader-DnYejZpN.js"
+      "_loader-Ceqx-niN.js"
     ]
   },
   "_media-Cb5ULaE4.js": {
@@ -597,11 +597,11 @@
     "file": "assets/nl_NL-DtKcBrGy.js",
     "name": "nl_NL"
   },
-  "_perf_doctor-Dpw5UC84.js": {
-    "file": "assets/perf_doctor-Dpw5UC84.js",
+  "_perf_doctor-CJn4DlhD.js": {
+    "file": "assets/perf_doctor-CJn4DlhD.js",
     "name": "perf_doctor",
     "imports": [
-      "_gfx-DAgD1RIX.js"
+      "_gfx-Durganub.js"
     ]
   },
   "_pl_PL-yQgurxvk.js": {
@@ -669,14 +669,14 @@
       "__u64-CORD_G1E.js"
     ]
   },
-  "_shader_debug_flag-D-J5GLWf.js": {
-    "file": "assets/shader_debug_flag-D-J5GLWf.js",
+  "_shader_debug_flag-Chi-cnJd.js": {
+    "file": "assets/shader_debug_flag-Chi-cnJd.js",
     "name": "shader_debug_flag",
     "imports": [
-      "_gfx-DAgD1RIX.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_gfx-Durganub.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
-      "_loader-DnYejZpN.js"
+      "_loader-Ceqx-niN.js"
     ]
   },
   "_site_presence-CR1kbjiW.js": {
@@ -712,21 +712,21 @@
     "file": "assets/terrain_texture_sets-BSERhEo8.js",
     "name": "terrain_texture_sets"
   },
-  "_texture_prewarm-Nhjxd1EL.js": {
-    "file": "assets/texture_prewarm-Nhjxd1EL.js",
+  "_texture_prewarm-Dwq0Qj0C.js": {
+    "file": "assets/texture_prewarm-Dwq0Qj0C.js",
     "name": "texture_prewarm",
     "imports": [
-      "_material_clone_hooks-CRXQ9ar5.js",
-      "_loader-DnYejZpN.js"
+      "_material_clone_hooks-BpMdP6Ph.js",
+      "_loader-Ceqx-niN.js"
     ]
   },
-  "_textures-DK7nQCwS.js": {
-    "file": "assets/textures-DK7nQCwS.js",
+  "_textures-DJMOHWs7.js": {
+    "file": "assets/textures-DJMOHWs7.js",
     "name": "textures",
     "imports": [
       "_data-DKFa-WZ5.js",
       "_letters-C4Asfay7.js",
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_vendor-three-C-cfN6pt.js"
     ]
   },
@@ -741,8 +741,8 @@
       "_i18n-BKfzyXXG.js"
     ]
   },
-  "_ui_effects_profile-8fK24-Np.js": {
-    "file": "assets/ui_effects_profile-8fK24-Np.js",
+  "_ui_effects_profile-1oiKE3YL.js": {
+    "file": "assets/ui_effects_profile-1oiKE3YL.js",
     "name": "ui_effects_profile"
   },
   "_ui_icons-BP33Yjvg.js": {
@@ -790,20 +790,20 @@
     "file": "assets/vi_VN-DZaMGerk.js",
     "name": "vi_VN"
   },
-  "_visible_children_group-DvtGdBH_.js": {
-    "file": "assets/visible_children_group-DvtGdBH_.js",
+  "_visible_children_group-BXVjNrZ1.js": {
+    "file": "assets/visible_children_group-BXVjNrZ1.js",
     "name": "visible_children_group",
     "imports": [
       "_client_origin-BBR2IQjs.js",
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
-      "_textures-DK7nQCwS.js",
-      "_gfx-DAgD1RIX.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_textures-DJMOHWs7.js",
+      "_gfx-Durganub.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
       "_weapon_variants-CbCUd6jk.js",
       "_woc_armor_core-gMJzBp__.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_media-Cb5ULaE4.js"
     ]
   },
@@ -862,22 +862,22 @@
     "file": "assets/weapon_variants-CbCUd6jk.js",
     "name": "weapon_variants"
   },
-  "_weather_field_core-e4CuGZPT.js": {
-    "file": "assets/weather_field_core-e4CuGZPT.js",
+  "_weather_field_core-CHUmoQGq.js": {
+    "file": "assets/weather_field_core-CHUmoQGq.js",
     "name": "weather_field_core",
     "imports": [
       "_preload-helper-DK2bx7Fl.js",
       "_data-DKFa-WZ5.js",
-      "_textures-DK7nQCwS.js",
+      "_textures-DJMOHWs7.js",
       "_letters-C4Asfay7.js",
-      "_gfx-DAgD1RIX.js",
+      "_gfx-Durganub.js",
       "_i18n-BKfzyXXG.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
       "_talent_i18n-DeWazpPu.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_media-Cb5ULaE4.js",
-      "_texture_prewarm-Nhjxd1EL.js",
+      "_texture_prewarm-Dwq0Qj0C.js",
       "_scenery_detail_core-De8mjuIB.js"
     ],
     "dynamicImports": [
@@ -1250,25 +1250,25 @@
     ]
   },
   "editor.html": {
-    "file": "assets/editor-Czn6HZO0.js",
+    "file": "assets/editor-DbcRMUMu.js",
     "name": "editor",
     "src": "editor.html",
     "isEntry": true,
     "imports": [
       "_modulepreload-polyfill-Dezn_h7o.js",
       "_preload-helper-DK2bx7Fl.js",
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
-      "_gfx-DAgD1RIX.js",
-      "_weather_field_core-e4CuGZPT.js",
-      "_map_bg-BD-FTjyQ.js",
+      "_gfx-Durganub.js",
+      "_weather_field_core-CHUmoQGq.js",
+      "_map_bg-B2M7u5EE.js",
       "_i18n-BKfzyXXG.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
       "_terrain_texture_sets-BSERhEo8.js",
-      "_visible_children_group-DvtGdBH_.js",
+      "_visible_children_group-BXVjNrZ1.js",
       "_talent_i18n-DeWazpPu.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
       "_ground_textures-D_Q2S7o4.js",
@@ -1283,7 +1283,7 @@
     ]
   },
   "guide.html": {
-    "file": "assets/guide-OcSTF0VS.js",
+    "file": "assets/guide-DjAMmowW.js",
     "name": "guide",
     "src": "guide.html",
     "isEntry": true,
@@ -1306,7 +1306,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/main-i6IlzGNT.js",
+    "file": "assets/main-Bp87e3wX.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -1317,11 +1317,11 @@
       "_client_origin-BBR2IQjs.js",
       "_site_presence-CR1kbjiW.js",
       "_browser_env-Dp6lNS8U.js",
-      "_ui_effects_profile-8fK24-Np.js"
+      "_ui_effects_profile-1oiKE3YL.js"
     ],
     "dynamicImports": [
       "src/dev/headless_pump.ts",
-      "_main-DBa1cLO-.js"
+      "_main-CqjcXySL.js"
     ],
     "css": [
       "assets/main-DfTGe9Vj.css",
@@ -2419,37 +2419,37 @@
     ]
   },
   "src/game/perf_diagnostics_panel.ts": {
-    "file": "assets/perf_diagnostics_panel-Zy2f8c8h.js",
+    "file": "assets/perf_diagnostics_panel-B3r9cybp.js",
     "name": "perf_diagnostics_panel",
     "src": "src/game/perf_diagnostics_panel.ts",
     "isDynamicEntry": true,
     "imports": [
       "_i18n-BKfzyXXG.js",
-      "_perf_doctor-Dpw5UC84.js"
+      "_perf_doctor-CJn4DlhD.js"
     ]
   },
   "src/guide/viewer/scene.ts": {
-    "file": "assets/scene-CKe5TB2O.js",
+    "file": "assets/scene-B0d7Qi0J.js",
     "name": "scene",
     "src": "src/guide/viewer/scene.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
       "_woc_armor_core-gMJzBp__.js",
-      "_loader-DnYejZpN.js",
+      "_loader-Ceqx-niN.js",
       "_context_release-CYxXkoEt.js",
-      "_texture_prewarm-Nhjxd1EL.js",
-      "_shader_debug_flag-D-J5GLWf.js"
+      "_texture_prewarm-Dwq0Qj0C.js",
+      "_shader_debug_flag-Chi-cnJd.js"
     ]
   },
   "src/main.ts": {
-    "file": "assets/main-Ck6gVDx6.js",
+    "file": "assets/main-84faddzX.js",
     "name": "main",
     "src": "src/main.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_main-DBa1cLO-.js"
+      "_main-CqjcXySL.js"
     ]
   },
   "src/net/mobile_wallet_deeplink.ts": {
@@ -2508,40 +2508,40 @@
     ]
   },
   "src/render/assets/loader.ts": {
-    "file": "assets/loader-CiF-GiEs.js",
+    "file": "assets/loader-B9uKDMrU.js",
     "name": "loader",
     "src": "src/render/assets/loader.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_loader-DnYejZpN.js"
+      "_loader-Ceqx-niN.js"
     ]
   },
   "src/render/palette_lab/palette_lab_runtime.ts": {
-    "file": "assets/palette_lab_runtime-CalXXHex.js",
+    "file": "assets/palette_lab_runtime-mK4KFSH6.js",
     "name": "palette_lab_runtime",
     "src": "src/render/palette_lab/palette_lab_runtime.ts",
     "isDynamicEntry": true,
     "imports": [
       "_data-DKFa-WZ5.js",
-      "_gfx-DAgD1RIX.js",
-      "_weather_field_core-e4CuGZPT.js"
+      "_gfx-Durganub.js",
+      "_weather_field_core-CHUmoQGq.js"
     ]
   },
   "src/render/rift_death_zone.ts": {
-    "file": "assets/rift_death_zone-yT-ZiXGV.js",
+    "file": "assets/rift_death_zone-Cu5LuHdf.js",
     "name": "rift_death_zone",
     "src": "src/render/rift_death_zone.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_ui_effects_profile-8fK24-Np.js",
+      "_ui_effects_profile-1oiKE3YL.js",
       "_data-DKFa-WZ5.js",
-      "_textures-DK7nQCwS.js",
+      "_textures-DJMOHWs7.js",
       "_letters-C4Asfay7.js",
-      "_gfx-DAgD1RIX.js",
-      "_material_clone_hooks-CRXQ9ar5.js",
+      "_gfx-Durganub.js",
+      "_material_clone_hooks-BpMdP6Ph.js",
       "_vendor-three-C-cfN6pt.js",
-      "_visible_children_group-DvtGdBH_.js",
-      "_loader-DnYejZpN.js"
+      "_visible_children_group-BXVjNrZ1.js",
+      "_loader-Ceqx-niN.js"
     ]
   },
   "src/render/scenery_detail_indices.ts": {
