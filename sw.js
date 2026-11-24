@@ -46,3 +46,21 @@ self.addEventListener('message', (e) => {
   })();
   e.waitUntil(warming);
 });
+// Tải ngầm (Background Fetch, Chrome Android): vẫn tải khi người chơi chuyển app / tắt màn hình.
+self.addEventListener('backgroundfetchsuccess', (e) => {
+  const reg = e.registration;
+  e.waitUntil((async () => {
+    const c = await caches.open(C);
+    const recs = await reg.matchAll();
+    await Promise.all(recs.map(async (r) => { try { const res = await r.responseReady; if (res && res.ok) await c.put(r.request.url, res); } catch (_) {} }));
+    try { await e.updateUI({ title: 'Vương Quốc Huyền Thoại: đã tải xong thế giới ✓' }); } catch (_) {}
+    for (const cl of await self.clients.matchAll()) cl.postMessage({ t: 'warm', done: 1, total: 1 });
+  })());
+});
+self.addEventListener('backgroundfetchfail', (e) => {
+  e.waitUntil((async () => {
+    const c = await caches.open(C);
+    for (const r of await e.registration.matchAll()) { try { const res = await r.responseReady; if (res && res.ok) await c.put(r.request.url, res); } catch (_) {} }
+  })());
+});
+self.addEventListener('backgroundfetchclick', (e) => { e.waitUntil(self.clients.openWindow('/vuongquoc/')); });
