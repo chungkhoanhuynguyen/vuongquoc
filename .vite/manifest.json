@@ -357,8 +357,8 @@
       "__u64-CORD_G1E.js"
     ]
   },
-  "_i18n-P791bLWS.js": {
-    "file": "assets/i18n-P791bLWS.js",
+  "_i18n-BKfzyXXG.js": {
+    "file": "assets/i18n-BKfzyXXG.js",
     "name": "i18n",
     "imports": [
       "_preload-helper-DK2bx7Fl.js"
@@ -387,14 +387,14 @@
       "src/ui/i18n.resolved.generated/da_DK.ts"
     ]
   },
-  "_icons-DdR9s-Y8.js": {
-    "file": "assets/icons-DdR9s-Y8.js",
+  "_icons-CEnD5fNO.js": {
+    "file": "assets/icons-CEnD5fNO.js",
     "name": "icons",
     "imports": [
       "_data-DKFa-WZ5.js",
       "_letters-C4Asfay7.js",
       "_weapon_variants-CbCUd6jk.js",
-      "_talent_i18n-BB6Fb-4H.js"
+      "_talent_i18n-DeWazpPu.js"
     ]
   },
   "_id_ID-iSNVNLrS.js": {
@@ -445,8 +445,8 @@
       "_media-Cb5ULaE4.js"
     ]
   },
-  "_main-CoqoJMPA.js": {
-    "file": "assets/main-CoqoJMPA.js",
+  "_main-Db3ZQnj9.js": {
+    "file": "assets/main-Db3ZQnj9.js",
     "name": "main",
     "imports": [
       "_preload-helper-DK2bx7Fl.js",
@@ -461,16 +461,16 @@
       "_gfx-DAgD1RIX.js",
       "_battleground_field-DD7ph_v2.js",
       "_dist-Do0m8ifp.js",
-      "_weather_field_core-CwlpE7_S.js",
-      "_map_bg-DFSlEDP3.js",
+      "_weather_field_core-e4CuGZPT.js",
+      "_map_bg-BD-FTjyQ.js",
       "_desktop_wallet_handoff-Bn5ugQw9.js",
-      "_i18n-P791bLWS.js",
-      "_talent_icons-BJO61fSW.js",
+      "_i18n-BKfzyXXG.js",
+      "_talent_icons-kdx2XAPv.js",
       "_material_clone_hooks-CRXQ9ar5.js",
       "_vendor-three-C-cfN6pt.js",
       "_visible_children_group-DvtGdBH_.js",
-      "_talent_i18n-BB6Fb-4H.js",
-      "_icons-DdR9s-Y8.js",
+      "_talent_i18n-DeWazpPu.js",
+      "_icons-CEnD5fNO.js",
       "_loader-DnYejZpN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
@@ -480,7 +480,7 @@
     ],
     "dynamicImports": [
       "node_modules/@capacitor/app/dist/esm/web.js",
-      "_map_bg-DFSlEDP3.js",
+      "_map_bg-BD-FTjyQ.js",
       "src/game/perf_diagnostics_panel.ts",
       "src/sim/maps/eastbrook_and_mirefen_changes.generated.ts",
       "src/sim/maps/eastbrook_rebuild.generated.ts",
@@ -510,8 +510,8 @@
       "src/ui/reliquary_i18n.locales/zh_TW.ts"
     ]
   },
-  "_map_bg-DFSlEDP3.js": {
-    "file": "assets/map_bg-DFSlEDP3.js",
+  "_map_bg-BD-FTjyQ.js": {
+    "file": "assets/map_bg-BD-FTjyQ.js",
     "name": "map_bg",
     "imports": [
       "_rolldown-runtime-BG2f4sTM.js",
@@ -523,15 +523,15 @@
       "_letters-C4Asfay7.js",
       "_gfx-DAgD1RIX.js",
       "_battleground_field-DD7ph_v2.js",
-      "_weather_field_core-CwlpE7_S.js",
-      "_i18n-P791bLWS.js",
+      "_weather_field_core-e4CuGZPT.js",
+      "_i18n-BKfzyXXG.js",
       "_material_clone_hooks-CRXQ9ar5.js",
       "_vendor-three-C-cfN6pt.js",
       "_terrain_texture_sets-BSERhEo8.js",
       "_visible_children_group-DvtGdBH_.js",
       "_woc_armor_core-gMJzBp__.js",
-      "_talent_i18n-BB6Fb-4H.js",
-      "_icons-DdR9s-Y8.js",
+      "_talent_i18n-DeWazpPu.js",
+      "_icons-CEnD5fNO.js",
       "_loader-DnYejZpN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
@@ -690,22 +690,22 @@
     "file": "assets/sv_SE-DezyIgeB.js",
     "name": "sv_SE"
   },
-  "_talent_i18n-BB6Fb-4H.js": {
-    "file": "assets/talent_i18n-BB6Fb-4H.js",
+  "_talent_i18n-DeWazpPu.js": {
+    "file": "assets/talent_i18n-DeWazpPu.js",
     "name": "talent_i18n",
     "imports": [
       "_data-DKFa-WZ5.js",
       "_letters-C4Asfay7.js",
-      "_i18n-P791bLWS.js"
+      "_i18n-BKfzyXXG.js"
     ]
   },
-  "_talent_icons-BJO61fSW.js": {
-    "file": "assets/talent_icons-BJO61fSW.js",
+  "_talent_icons-kdx2XAPv.js": {
+    "file": "assets/talent_icons-kdx2XAPv.js",
     "name": "talent_icons",
     "imports": [
       "_data-DKFa-WZ5.js",
       "_letters-C4Asfay7.js",
-      "_icons-DdR9s-Y8.js"
+      "_icons-CEnD5fNO.js"
     ]
   },
   "_terrain_texture_sets-BSERhEo8.js": {
@@ -734,11 +734,11 @@
     "file": "assets/tr_TR-DB85XyhN.js",
     "name": "tr_TR"
   },
-  "_tutorial_core-BZVdzmAU.js": {
-    "file": "assets/tutorial_core-BZVdzmAU.js",
+  "_tutorial_core-B8QIEAUP.js": {
+    "file": "assets/tutorial_core-B8QIEAUP.js",
     "name": "tutorial_core",
     "imports": [
-      "_i18n-P791bLWS.js"
+      "_i18n-BKfzyXXG.js"
     ]
   },
   "_ui_effects_profile-8fK24-Np.js": {
@@ -862,8 +862,8 @@
     "file": "assets/weapon_variants-CbCUd6jk.js",
     "name": "weapon_variants"
   },
-  "_weather_field_core-CwlpE7_S.js": {
-    "file": "assets/weather_field_core-CwlpE7_S.js",
+  "_weather_field_core-e4CuGZPT.js": {
+    "file": "assets/weather_field_core-e4CuGZPT.js",
     "name": "weather_field_core",
     "imports": [
       "_preload-helper-DK2bx7Fl.js",
@@ -871,10 +871,10 @@
       "_textures-DK7nQCwS.js",
       "_letters-C4Asfay7.js",
       "_gfx-DAgD1RIX.js",
-      "_i18n-P791bLWS.js",
+      "_i18n-BKfzyXXG.js",
       "_material_clone_hooks-CRXQ9ar5.js",
       "_vendor-three-C-cfN6pt.js",
-      "_talent_i18n-BB6Fb-4H.js",
+      "_talent_i18n-DeWazpPu.js",
       "_loader-DnYejZpN.js",
       "_media-Cb5ULaE4.js",
       "_texture_prewarm-Nhjxd1EL.js",
@@ -1250,7 +1250,7 @@
     ]
   },
   "editor.html": {
-    "file": "assets/editor-Dprx8DBe.js",
+    "file": "assets/editor-Czn6HZO0.js",
     "name": "editor",
     "src": "editor.html",
     "isEntry": true,
@@ -1260,19 +1260,19 @@
       "_ui_effects_profile-8fK24-Np.js",
       "_data-DKFa-WZ5.js",
       "_gfx-DAgD1RIX.js",
-      "_weather_field_core-CwlpE7_S.js",
-      "_map_bg-DFSlEDP3.js",
-      "_i18n-P791bLWS.js",
+      "_weather_field_core-e4CuGZPT.js",
+      "_map_bg-BD-FTjyQ.js",
+      "_i18n-BKfzyXXG.js",
       "_material_clone_hooks-CRXQ9ar5.js",
       "_vendor-three-C-cfN6pt.js",
       "_terrain_texture_sets-BSERhEo8.js",
       "_visible_children_group-DvtGdBH_.js",
-      "_talent_i18n-BB6Fb-4H.js",
+      "_talent_i18n-DeWazpPu.js",
       "_loader-DnYejZpN.js",
       "_media-Cb5ULaE4.js",
       "_context_release-CYxXkoEt.js",
       "_ground_textures-D_Q2S7o4.js",
-      "_tutorial_core-BZVdzmAU.js"
+      "_tutorial_core-B8QIEAUP.js"
     ],
     "dynamicImports": [
       "_ground_textures-D_Q2S7o4.js",
@@ -1283,7 +1283,7 @@
     ]
   },
   "guide.html": {
-    "file": "assets/guide-Bcw9iXOA.js",
+    "file": "assets/guide-OcSTF0VS.js",
     "name": "guide",
     "src": "guide.html",
     "isEntry": true,
@@ -1292,10 +1292,10 @@
       "_preload-helper-DK2bx7Fl.js",
       "_site_presence-CR1kbjiW.js",
       "_letters-C4Asfay7.js",
-      "_i18n-P791bLWS.js",
-      "_talent_icons-BJO61fSW.js",
-      "_talent_i18n-BB6Fb-4H.js",
-      "_icons-DdR9s-Y8.js",
+      "_i18n-BKfzyXXG.js",
+      "_talent_icons-kdx2XAPv.js",
+      "_talent_i18n-DeWazpPu.js",
+      "_icons-CEnD5fNO.js",
       "_context_release-CYxXkoEt.js"
     ],
     "dynamicImports": [
@@ -1306,7 +1306,7 @@
     ]
   },
   "index.html": {
-    "file": "assets/main-BikdAbLi.js",
+    "file": "assets/main-DFNeayNa.js",
     "name": "main",
     "src": "index.html",
     "isEntry": true,
@@ -1321,7 +1321,7 @@
     ],
     "dynamicImports": [
       "src/dev/headless_pump.ts",
-      "_main-CoqoJMPA.js"
+      "_main-Db3ZQnj9.js"
     ],
     "css": [
       "assets/main-DfTGe9Vj.css",
@@ -2409,22 +2409,22 @@
     "isDynamicEntry": true
   },
   "src/editor/tutorial.ts": {
-    "file": "assets/tutorial-f_VAXSbX.js",
+    "file": "assets/tutorial-C87ai7Qi.js",
     "name": "tutorial",
     "src": "src/editor/tutorial.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_i18n-P791bLWS.js",
-      "_tutorial_core-BZVdzmAU.js"
+      "_i18n-BKfzyXXG.js",
+      "_tutorial_core-B8QIEAUP.js"
     ]
   },
   "src/game/perf_diagnostics_panel.ts": {
-    "file": "assets/perf_diagnostics_panel-BryCpEF4.js",
+    "file": "assets/perf_diagnostics_panel-Zy2f8c8h.js",
     "name": "perf_diagnostics_panel",
     "src": "src/game/perf_diagnostics_panel.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_i18n-P791bLWS.js",
+      "_i18n-BKfzyXXG.js",
       "_perf_doctor-Dpw5UC84.js"
     ]
   },
@@ -2444,12 +2444,12 @@
     ]
   },
   "src/main.ts": {
-    "file": "assets/main-BvRGu6f_.js",
+    "file": "assets/main-DENlk9Tj.js",
     "name": "main",
     "src": "src/main.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_main-CoqoJMPA.js"
+      "_main-Db3ZQnj9.js"
     ]
   },
   "src/net/mobile_wallet_deeplink.ts": {
@@ -2517,14 +2517,14 @@
     ]
   },
   "src/render/palette_lab/palette_lab_runtime.ts": {
-    "file": "assets/palette_lab_runtime-D3KTP2TC.js",
+    "file": "assets/palette_lab_runtime-CalXXHex.js",
     "name": "palette_lab_runtime",
     "src": "src/render/palette_lab/palette_lab_runtime.ts",
     "isDynamicEntry": true,
     "imports": [
       "_data-DKFa-WZ5.js",
       "_gfx-DAgD1RIX.js",
-      "_weather_field_core-CwlpE7_S.js"
+      "_weather_field_core-e4CuGZPT.js"
     ]
   },
   "src/render/rift_death_zone.ts": {
@@ -2931,14 +2931,14 @@
     "isDynamicEntry": true
   },
   "wallet-handoff.html": {
-    "file": "assets/walletHandoff-DxFwuVFR.js",
+    "file": "assets/walletHandoff-DPdC89MH.js",
     "name": "walletHandoff",
     "src": "wallet-handoff.html",
     "isEntry": true,
     "imports": [
       "_modulepreload-polyfill-Dezn_h7o.js",
       "_desktop_wallet_handoff-Bn5ugQw9.js",
-      "_i18n-P791bLWS.js",
+      "_i18n-BKfzyXXG.js",
       "_wallets-D8iEriUh.js",
       "_connect-BLrw6oHj.js",
       "_esm-DhvlA6gG.js"
