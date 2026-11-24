@@ -1,0 +1,1 @@
+import{t as e}from"./id_ID-iSNVNLrS.js";export{e as id_ID};

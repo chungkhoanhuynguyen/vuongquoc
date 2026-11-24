@@ -1,0 +1,1 @@
+import{t as e}from"./vi_VN-DZaMGerk.js";export{e as vi_VN};

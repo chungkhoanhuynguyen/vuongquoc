@@ -1,0 +1,1 @@
+var e=`standard:events`;export{e as t};

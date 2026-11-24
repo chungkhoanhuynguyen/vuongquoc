@@ -1,0 +1,1 @@
+import{t as e}from"./ko_KR-COxYJnJ1.js";export{e as ko_KR};

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>World of ClaudeCraft - Admin</title>
+<link rel="icon" href="/vuongquoc/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" sizes="192x192" href="/vuongquoc/icon-192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/vuongquoc/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/vuongquoc/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/vuongquoc/apple-touch-icon.png" />
+
+<!-- Theme FOUC guard (mirrors the stored-locale preload pattern in index.html /
+     play.html / guide.html): stamp the stored theme preference on <html> before
+     any CSS paints, so a returning light-mode operator never sees a flash of the
+     dark default. Reads ONLY the admin theme's localStorage key
+     (src/admin/theme.ts's THEME_STORAGE_KEY; tests/admin/theme.test.ts pins the
+     two literals stay in sync). state/theme.svelte.ts re-applies the same
+     attribute once the app boots and on every toggle. -->
+<script>
+  (() => {
+    try {
+      if (localStorage.getItem('claudecraft_admin_theme') === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    } catch {
+      // No storage access: fall through to the dark default.
+    }
+  })();
+</script>
+  <script type="module" crossorigin src="/vuongquoc/assets/admin-DFbpRWuB.js"></script>
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/modulepreload-polyfill-Dezn_h7o.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/preload-helper-DK2bx7Fl.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/es-h3vLTUXa.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/es_ES-DYq0cujL.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/fr_FR-BzKVoPzz.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/fr_CA-BLv1fBdp.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/en_CA-DWAl7uEF.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/it_IT-B5c8wSFI.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/de_DE-DMSvXcEw.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/zh_CN-CyJTSh4l.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/zh_TW-rxSQwBhr.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/ko_KR-COxYJnJ1.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/ja_JP-DvVlE4eD.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/pt_BR-Dd7iOMXr.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/ru_RU-Daht60Wl.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/cs_CZ-BGeczqh0.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/nl_NL-DtKcBrGy.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/pl_PL-yQgurxvk.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/id_ID-iSNVNLrS.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/tr_TR-DB85XyhN.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/sv_SE-DezyIgeB.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/vi_VN-DZaMGerk.js">
+  <link rel="modulepreload" crossorigin href="/vuongquoc/assets/da_DK-B-q6SINR.js">
+  <link rel="stylesheet" crossorigin href="/vuongquoc/assets/admin-DmQJj3I_.css">
+</head>
+<body>
+  <div id="app"></div>
+</body>
+</html>

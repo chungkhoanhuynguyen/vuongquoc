@@ -1,0 +1,1 @@
+var e=`solana:signAndSendTransaction`,t=`standard:connect`;export{e as n,t};

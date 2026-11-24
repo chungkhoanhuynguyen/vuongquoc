@@ -1,0 +1,1 @@
+import{a as e,c as t,i as n,l as r,n as i,o as a,r as o,s,t as c}from"./loader-DnYejZpN.js";export{c as acquireTexture,i as isGltfCached,o as loadBitmapTexture,n as loadGltf,e as loadKtx2Texture,a as loadTexture,s as releaseGltf,t as releaseKtx2Texture,r as releaseTexture};

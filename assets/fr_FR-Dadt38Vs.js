@@ -1,0 +1,1 @@
+import{t as e}from"./fr_FR-BzKVoPzz.js";export{e as fr_FR};

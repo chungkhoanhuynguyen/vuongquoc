@@ -1,0 +1,1 @@
+import{t as e}from"./tr_TR-DB85XyhN.js";export{e as tr_TR};

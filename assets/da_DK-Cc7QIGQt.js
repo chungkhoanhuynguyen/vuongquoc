@@ -1,0 +1,1 @@
+import{t as e}from"./da_DK-B-q6SINR.js";export{e as da_DK};

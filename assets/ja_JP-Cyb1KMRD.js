@@ -1,0 +1,1 @@
+import{t as e}from"./ja_JP-DvVlE4eD.js";export{e as ja_JP};

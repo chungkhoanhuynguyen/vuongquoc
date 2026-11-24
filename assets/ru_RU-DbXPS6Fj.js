@@ -1,0 +1,1 @@
+import{t as e}from"./ru_RU-Daht60Wl.js";export{e as ru_RU};

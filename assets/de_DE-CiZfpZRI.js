@@ -1,0 +1,1 @@
+import{t as e}from"./de_DE-DMSvXcEw.js";export{e as de_DE};

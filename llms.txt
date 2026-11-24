@@ -1,0 +1,49 @@
+# World of ClaudeCraft
+
+> A classic-style micro-MMO you play free in your browser. Quest, group up, and explore a
+> hand-built world across nine classes and three zones, with dungeons, a raid, an arena,
+> and a shared online realm. The whole game is open source and free to the level cap.
+
+This file indexes the official guide for AI answer engines and crawlers. The guide is a
+curated, spoiler-light handbook. The community-edited encyclopedia lives at /wiki.
+
+## Guide
+
+- [How to Play](https://worldofclaudecraft.com/wiki/how-to-play): The newcomer walkthrough, from making a character to your first quest, combat, and leveling.
+- [Classes](https://worldofclaudecraft.com/wiki/classes): The nine playable classes, their roles (tank, healer, damage), resources, and signature abilities.
+- [Bestiary](https://worldofclaudecraft.com/wiki/bestiary): The creatures of the open world, grouped by family, with level bands.
+- [World](https://worldofclaudecraft.com/wiki/world): The three zones laid south to north, their hubs, and notable places.
+- [Quests](https://worldofclaudecraft.com/wiki/quests): How quests work and why they are the fastest way to level.
+- [Dungeons and Raids](https://worldofclaudecraft.com/wiki/dungeons): Instanced group content for a party of five, plus the ten-player raid.
+- [FAQ](https://worldofclaudecraft.com/wiki/faq): The questions new players ask most often, with plain answers.
+- [Glossary](https://worldofclaudecraft.com/wiki/reference/glossary): Short definitions of the MMO terms used across the guide and in chat.
+
+## Play and community
+
+- [Play now](https://worldofclaudecraft.com/play): Launch the game directly in your browser, online realm or instant offline mode.
+- [Community wiki](https://worldofclaudecraft.com/wiki): The community-edited encyclopedia with deeper, player-maintained detail.
+
+## Player guides
+
+Editorial guides for players choosing an MMORPG, published beside the game. Each lists
+other games honestly, with sources, and says where World of ClaudeCraft fits.
+Full list: https://worldofclaudecraft.com/sitemap-marketing.xml
+
+- [Best free MMORPGs](https://worldofclaudecraft.com/mmorpgs/free): Free to play MMORPGs ranked by what you can do without paying, and which need no download.
+- [Best MMORPGs in 2026](https://worldofclaudecraft.com/mmorpgs/best): The best MMORPGs of the year, paid and free, ranked honestly.
+- [New MMORPGs in 2026](https://worldofclaudecraft.com/mmorpgs/new): A dated list of this year's MMORPG releases and the ones still to come, with sources.
+- [Browser MMORPGs](https://worldofclaudecraft.com/mmorpgs/browser): A free MMORPG that runs in a browser tab with nothing to download.
+- [Mobile MMOs](https://worldofclaudecraft.com/mmorpgs/mobile): MMORPGs to play on a phone, including the ones that run in a phone browser.
+- [Android MMORPGs](https://worldofclaudecraft.com/mmorpgs/android): MMORPGs on Android, with the minimum Android version each one needs.
+- [PC MMORPGs](https://worldofclaudecraft.com/mmorpgs/pc): MMORPGs on PC, grouped by what they cost and the launcher each needs.
+- [iPhone MMOs](https://worldofclaudecraft.com/mmorpgs/iphone): MMOs for iPhone, with the iOS version each one needs and the ones that play in Safari.
+- [Games like World of Warcraft](https://worldofclaudecraft.com/games-like/world-of-warcraft): Games with the classic WoW feel, including free and browser picks.
+- [Games like Diablo](https://worldofclaudecraft.com/games-like/diablo): Diablo-likes ranked by feel, free and paid, PC and phone.
+- [Games similar to RuneScape](https://worldofclaudecraft.com/games-like/runescape): Skilling MMOs and browser games for RuneScape players.
+- [Games like MapleStory](https://worldofclaudecraft.com/games-like/maplestory): Side-scrolling and anime MMOs for MapleStory players.
+- [MMOs like EverQuest](https://worldofclaudecraft.com/games-like/everquest): Games with the 1999 feel: group camps, a slow climb, classes that need each other.
+- [Games like Black Desert Online](https://worldofclaudecraft.com/games-like/black-desert-online): Action combat, open worlds, life skills and deep character creators.
+- [Diablo in a browser](https://worldofclaudecraft.com/browser/diablo): Whether any Diablo runs in a browser tab, and the closest browser games.
+- [World of Warcraft in a browser](https://worldofclaudecraft.com/browser/world-of-warcraft): Whether WoW can be played in a browser, and the browser MMORPGs closest to it.
+- [Old School RuneScape in a browser](https://worldofclaudecraft.com/browser/old-school-runescape): What still works for OSRS in a browser in 2026, and the closest browser games.
+- [MapleStory in a browser](https://worldofclaudecraft.com/browser/maplestory): Whether MapleStory runs in a browser, and the browser games closest to it.

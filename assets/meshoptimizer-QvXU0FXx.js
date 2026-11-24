@@ -1,0 +1,1 @@
+import{t as e}from"./meshoptimizer-6cyFby7q.js";export{e as MeshoptSimplifier};
